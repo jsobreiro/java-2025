@@ -1,0 +1,3 @@
+Lancer;PDS-1E56;Vermelho
+Ford Niew Fiesta;AVF-6789;Preto
+Celta;ABC-0987;Branco
