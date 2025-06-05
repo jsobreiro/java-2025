@@ -1,0 +1,4 @@
+HEROI;Zé Creyson;70;20;50;Raio paralizador
+VILAO;Creyson Reverso;50;20;70;Magos Sinistros
+HEROI;Homem-Homem;10;2;1;Fala duplicado
+VILAO;Vilao Malefico;80;10;90;Guilda dos Malvados
