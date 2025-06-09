@@ -1,0 +1,4 @@
+Bulbasauro;Grama;Mordida;Corte;Folha navalha;Raio Solar
+Charmander;Fogo;Mordida;Corte;Cavar;Chama
+Squirtle;Água;Mordida;Investida;Bolhas;Surf
+Pikachu;Elétrico;Agilidade;Investida;Choque do Trovão;Calda de Ferro
